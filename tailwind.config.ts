@@ -62,7 +62,14 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				// Your specific color additions
+				purpleDeep: '#10002b', // Almost black purple
+				purpleDark: '#240046', // Dark purple
+				purpleMedium: '#c77dff', // Medium purple
+				purpleLight: '#e0aaff', // Light purple
+				blackish: '#000000',
+				lightish: '#eeeeee'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
